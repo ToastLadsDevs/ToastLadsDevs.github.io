@@ -77,11 +77,7 @@ div {
 
 /* header styles */
 header {
-    height: 500px;
-    background-image: url(images/MM\ logo.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    
+    height: 400px;
 }
 
 header section h1 {
@@ -129,6 +125,12 @@ video {
 .blog-image {
     width: 150px;
     float: right;
+}
+
+.mm-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Footer Styles */
