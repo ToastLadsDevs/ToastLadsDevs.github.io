@@ -81,6 +81,7 @@ header {
     background-image: url(images/Team\ Photo\ -\ No\ Crop.jpg);
     background-repeat: no-repeat;
     background-position: center, top;
+    background-size: cover;
 }
 
 header section h1 {
