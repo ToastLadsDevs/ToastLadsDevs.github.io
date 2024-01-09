@@ -77,7 +77,10 @@ div {
 
 /* header styles */
 header {
-    height: 400px;
+    height: 600px;
+    background-image: url(images/Team\ Photo\ -\ No\ Crop.jpg);
+    background-repeat: no-repeat;
+    background-position: center, top;
 }
 
 header section h1 {
