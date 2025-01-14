@@ -78,7 +78,7 @@ div {
 /* header styles */
 header {
     height: 600px;
-    background-image: url(images/Team\ Photo\ -\ No\ Crop.jpg);
+    background-image: url(images/mkt_mtl/Team\ Photo\ -\ No\ Crop.jpg);
     background-repeat: no-repeat;
     background-position: center, top;
     background-size: cover;
@@ -144,7 +144,7 @@ video {
 /* Footer Styles */
 
 footer {
-    background-image: url(images/TL\ S17\ Logo.jpg);
+    background-image: url(images/mkt_mtl/TL\ S17\ Logo.jpg);
     background-size: contain;
     background-position: center, bottom;
     padding: 5px;
