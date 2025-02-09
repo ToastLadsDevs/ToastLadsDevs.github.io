@@ -61,7 +61,7 @@ a {
 .main-text{
     /*max-width: 700px;*/
     padding: 10px;
-    margin: 0px 20px 30px 20px;
+    margin: 40px 20px 30px 20px;
 }
 
 /* default styles for main content sections */
@@ -117,6 +117,7 @@ header section h1 {
 .video-container {
     max-width: 720px;
     float: right;
+    clear: both;
     border: none;
     margin: 0px 5px 5px 5px;
 }
