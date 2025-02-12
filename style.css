@@ -91,6 +91,14 @@ header section h1 {
     padding-top: 50px;
 }
 
+.tl-logo {
+    margin: 0 auto;
+    max-width: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
 /* Other Styles */
 
 .trailer {
@@ -157,7 +165,7 @@ video {
 /* Footer Styles */
 
 footer {
-    background-image: url(images/mkt_mtl/TL\ S17\ Logo.jpg);
+    background-image: url(images/Tl\ Logo\ S18.png);
     background-size: contain;
     background-position: center, bottom;
     padding: 5px;
