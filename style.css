@@ -1,9 +1,16 @@
 /* set up variables for colors */
 :root {
+    /* Old Color Scheme
     --bg:#737373;
     --alt-bg:#3D3D3D;
     --alt-text:#30BBF2;
     --border:#A66F2D;
+    --text:#F2F2F2;
+    */
+    --bg:#737373;
+    --alt-bg:#323c3f;
+    --alt-text:#30BBF2;
+    --border:#BF0404;
     --text:#F2F2F2;
 }
 
