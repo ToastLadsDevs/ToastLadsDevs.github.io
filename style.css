@@ -85,9 +85,8 @@ div {
 /* header styles */
 header {
     height: 1000px;
-    background-image: url(images/rd_tds/temp_team_photo.jpg);
+    background-image: url(images/rd_tds/updated\ team\ photo.jpg);
     /*background-image: url(images/mkt_mtl/Team\ Photo\ -\ No\ Crop.jpg);*/
-    background-position-y: top;
     background-repeat: no-repeat;
     background-position: center, middle;
     background-size: cover;
